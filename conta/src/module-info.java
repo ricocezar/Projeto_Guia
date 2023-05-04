@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Ricardo
- *
- */
-module conta {
-}
